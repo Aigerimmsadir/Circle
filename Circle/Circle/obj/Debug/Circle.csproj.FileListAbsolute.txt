@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Circle\Circle\bin\Debug\Circle.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Circle\Circle\bin\Debug\Circle.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Circle\Circle\bin\Debug\Circle.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Circle\Circle\obj\Debug\Circle.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Circle\Circle\obj\Debug\Circle.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Circle\Circle\obj\Debug\Circle.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Circle\Circle\obj\Debug\Circle.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Circle\Circle\obj\Debug\Circle.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Circle\Circle\obj\Debug\Circle.pdb
